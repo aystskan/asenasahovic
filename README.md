@@ -1,3 +1,3 @@
 - 👋 Hi, I’m a self-improving CEng student
 - ✨ I'm excited to experience what I can do while coding
-- ⚡ Lest's stargaze learning, practice and devolopment in the coderspace with @aystskan
+- ⚡ Let's stargaze learning, practice and devolopment in the coderspace with @aystskan
